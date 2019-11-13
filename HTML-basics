@@ -1,0 +1,1691 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <body id="rebecca-atwood-designs" class="template-index" data-gr-c-s-loaded="true">
+    <div class="header__wrapper offset-nav">
+
+      <div class="info-bar showMobile">
+        <div class="wrapper">
+          <div class="text-left">
+
+
+
+           <p class="site-header--text-links marketing-link">
+
+               <a href="/account/login" id="customer_login_link">Log in</a>
+
+               &nbsp; · &nbsp;
+            <!-- This is not a command I have seen. My google search says it is a "non breaking space" https://crunchify.com/basic-html-how-do-you-create-blank-space-in-html/-->
+               <a href="/account/register" id="customer_register_link">Create account</a>
+
+
+           </p>
+
+          </div>
+
+          <div class="marketing-top marketing-top--hidden">
+            <a class="marketing-link" href="https://rebeccaatwood.com/collections/books">Order Rebecca's new book Living With Color here.</a>
+          </div>
+
+
+          <div class="header-search__wrapper">
+            <div class="header-search">
+              <form action="/search" method="get" class="input-group search" role="search">
+
+                <input class="search-bar snize-input-style" type="search" name="q" placeholder="Search" autocomplete="off">
+                <button type="submit" class="btn search-btn"></button>
+              </form>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+    <div id="sticky-nav-sticky-wrapper" class="sticky-wrapper" style="height: 80px;"><div id="sticky-nav" class="header__wrapper" style="width: 149px;">
+      <header class="site-header showMobile" role="banner">
+        <div class="wrapper nav-wrapper">
+          <div class="nav--desktop">
+            <div class="mobile-wrapper">
+    <div class="header-cart__wrapper hidden-lg">
+      <a href="/cart" class="CartToggle header-cart"><i class="icon icon-ra_bag"></i></a>
+      <span class="header-cart__bubble cartCount has-items cartCount-updater  hidden-count">0</span>
+    </div>
+    <div class="logo-wrapper ">
+
+        <h1 class="h4 header-logo" itemscope="" itemtype="http://schema.org/Organization">
+      <!-- I haven't seen the "itemtype" or "itemscope". I think they are "meta" tags. They describe the information and the information contained. https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope-->
+
+          <a href="/" itemprop="url"><i class="icon icon-ra_primary-logo"></i></a>
+
+
+        </h1>
+
+    </div>
+    <a href="" class="menuToggle header-hamburger"></a>
+  </div>
+
+  <div class="header-menu nav-wrapper">
+
+    <ul class="main-menu accessibleNav">
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="grandparent  kids-4">
+      <a href="#" class="nav-link" id="Shop">Shop</a>
+
+      <a href="#" class="nav-carat"><span class="plus">+</span><span class="minus">-</span></a>
+        <div class="main-menu-dropdown">
+          <ul class="main-menu-dropdown--list">
+
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+    <!-- aria is also not one I know, Google says they are attributes that communicate role, state and property semantics.https://www.google.com/search?q=aria+html+tags&rlz=1C5CHFA_enUS858US858&oq=sria+htm&aqs=chrome.2.69i57j0l5.5236j0j9&sourceid=chrome&ie=UTF-8 -->
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/all">All Collections</a></h5>
+
+
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/new-arrivals">New Arrivals</a></h5>
+
+
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/bedding">Bedding</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/duvets">Duvets</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/quilts">Coverlets + Quilts</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillowcases">Pillowcases</a></li>
+
+        </ul>
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/fabric-by-the-yard">Fabric</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/fabric-by-the-yard/Printed">Printed</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/fabric-by-the-yard/Woven">Woven</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/embroidered-fabrics">Embroidered</a></li>
+
+        </ul>
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/swatch-sets">Swatch Sets</a></h5>
+
+
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/wallpapers">Wallpaper</a></h5>
+
+
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/accessories-gift">Accessories + Gifts</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/books">Books</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/products/gift-card">Gift Card</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/zip-pouches">Zip Pouches</a></li>
+
+        </ul>
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/pillows">Pillows</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillows/Printed">Printed</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillows/Woven">Woven</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/embroidered-pillows/Hand-Embroidered">Embroidered</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/products/custom-pillow">Custom</a></li>
+
+        </ul>
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="https://rebeccaatwood.com/collections/sale">Sale</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/end-of-roll-sale/sale">Fabric by the Yard</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillows/sale">Pillows</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/screen-printed-wallpaper/sale">Wallpaper</a></li>
+
+        </ul>
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+          </ul>
+        </div>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/about-us" class="nav-link" id="About">About</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/process" class="nav-link" id="Process">Process</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/blogs/from-the-studio" class="nav-link" id="Blog">Blog</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/book" class="nav-link" id="Books">Books</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/visit-us" class="nav-link" id="Showroom">Showroom</a>
+      <!-- the "id" tag is a little confusing to me. It seems to refer to a specific job the element is to do. http://html5doctor.com/using-aria-in-html/ -->
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/contact" class="nav-link" id="Contact">Contact</a>
+
+    </li>
+
+
+      <li class="cart-text-link">
+        <a href="/cart" class="CartToggle">
+          Bag
+          <span class=" hidden-count " id="nav-cartCountDesktop">(0)</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+          </div>
+          <div class="nav--mobile">
+            <div class="mobile-wrapper">
+    <div class="header-cart__wrapper hidden-lg">
+      <a href="/cart" class="CartToggle header-cart"><i class="icon icon-ra_bag"></i></a>
+      <span class="header-cart__bubble cartCount has-items cartCount-updater  hidden-count">0</span>
+    </div>
+    <div class="logo-wrapper ">
+
+        <h1 class="h4 header-logo" itemscope="" itemtype="http://schema.org/Organization">
+
+
+          <a href="/" itemprop="url"><i class="icon icon-ra_primary-logo"></i></a>
+
+
+        </h1>
+
+    </div>
+    <a href="" class="menuToggle header-hamburger"></a>
+  </div>
+
+  <div class="header-menu nav-wrapper">
+
+    <ul class="main-menu accessibleNav">
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="grandparent  kids-4">
+      <a href="#" class="nav-link" id="Shop">Shop</a>
+
+      <a href="#" class="nav-carat"><span class="plus">+</span><span class="minus">-</span></a>
+        <div class="main-menu-dropdown">
+          <ul class="main-menu-dropdown--list">
+
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/all">All Collections</a></h5>
+
+
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/new-arrivals">New Arrivals</a></h5>
+
+
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/bedding">Bedding</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/duvets">Duvets</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/quilts">Coverlets + Quilts</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillowcases">Pillowcases</a></li>
+
+        </ul>
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/fabric-by-the-yard">Fabric</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/fabric-by-the-yard/Printed">Printed</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/fabric-by-the-yard/Woven">Woven</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/embroidered-fabrics">Embroidered</a></li>
+
+        </ul>
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/swatch-sets">Swatch Sets</a></h5>
+
+
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/wallpapers">Wallpaper</a></h5>
+
+
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/accessories-gift">Accessories + Gifts</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/books">Books</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/products/gift-card">Gift Card</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/zip-pouches">Zip Pouches</a></li>
+
+        </ul>
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+
+
+
+  <li aria-haspopup="true">
+      <ul class="collection-nav--child">
+
+        <li class="collection-nav--child-link"><h5><a href="/collections/pillows">Pillows</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillows/Printed">Printed</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillows/Woven">Woven</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/embroidered-pillows/Hand-Embroidered">Embroidered</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/products/custom-pillow">Custom</a></li>
+
+        </ul>
+
+
+        </li>
+
+        <li class="collection-nav--child-link"><h5><a href="https://rebeccaatwood.com/collections/sale">Sale</a></h5>
+
+
+
+        <ul class="collection-nav--grandchild">
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/end-of-roll-sale/sale">Fabric by the Yard</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/pillows/sale">Pillows</a></li>
+
+            <li class="collection-nav--grandchild-link"><a href="/collections/screen-printed-wallpaper/sale">Wallpaper</a></li>
+
+        </ul>
+
+
+        </li>
+
+      </ul>
+  </li>
+
+
+
+
+          </ul>
+        </div>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/about-us" class="nav-link" id="About">About</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/process" class="nav-link" id="Process">Process</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/blogs/from-the-studio" class="nav-link" id="Blog">Blog</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/book" class="nav-link" id="Books">Books</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/visit-us" class="nav-link" id="Showroom">Showroom</a>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="child  kids-0">
+      <a href="/pages/contact" class="nav-link" id="Contact">Contact</a>
+
+    </li>
+
+
+      <li class="cart-text-link">
+        <a href="/cart" class="CartToggle">
+          Bag
+          <span class=" hidden-count " id="nav-cartCountDesktop">(0)</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+          </div>
+          <div class="ajaxCart-fullContainer hidden wrapper">
+            <div class="ajaxCart" id="download-modal" style="left: 0px; top: 0px;"></div>
+          </div>
+
+        </div>
+      </header>
+    </div></div>
+    <!-- <div id="phantom"></div> -->
+
+    <main class="main-content" role="main">
+
+    <!-- Interactive Images -->
+  <div id="picture" class="interactive-picture homepage-hero-image" style="background-image: url('//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/homepage_interactive_image.jpg?740');">
+    <!-- Interactive Pins -->
+
+      <div class="interactive-pin" id="ip1"><a href="https://rebeccaatwood.com/collections/fabric-by-the-yard/products/stars-fabric-in-gray-taupe" class="picture-target" target="_self"><span>1</span></a></div>
+
+
+      <div class="interactive-pin" id="ip2"><a href="https://rebeccaatwood.com/collections/wallpapers/products/dashes-wallpaper-in-lilac" class="picture-target" target="_self"><span>2</span></a></div>
+
+
+
+
+  </div>
+
+  <!-- Pin CTA -->
+  <div class="picture-cta-container">
+    <div class="picture-cta ip1 pin-right">
+      <div class="cta-frame">
+        <img src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/ip_1_image.jpg?740" alt="">
+        <p>Stars Fabric in Gray/Taupe</p>
+        <span>This pattern began as a cut paper collage Rebecca made thinking about stars and flowers. She sprinkled the graphic shapes she cut out across a fresh sheet of paper and glued them down into a new arrangement.</span>
+        <a class="icon cupid" href="https://rebeccaatwood.com/collections/fabric-by-the-yard/products/stars-fabric-in-gray-taupe">Shop Now</a>
+      </div>
+    </div>
+    <div class="picture-cta ip2 pin-left">
+      <div class="cta-frame">
+        <img src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/ip_2_image.jpg?740" alt="">
+        <p>Dashes Wallpaper in Lilac</p>
+        <span>The dashes design started out as a mark-making experiment in Rebecca’s sketchbook – she loved the shape the paintbrush made and the slight variations that occurred.</span>
+        <a class="icon cupid" href="https://rebeccaatwood.com/collections/wallpapers/products/dashes-wallpaper-in-lilac">Shop Now</a>
+      </div>
+    </div>
+    <div class="picture-cta ip3 pin-left">
+      <div class="cta-frame">
+        <img src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/ip_3_image.jpg?740" alt="">
+        <p>Dot Dash Fabric in Navy/Blue</p>
+        <span>While visiting Zihuatanejo, Mexico, Rebecca painted playful patterns in her sketchbook inspired by the relaxed vibe of the coastal town.</span>
+        <a class="icon cupid" href="https://rebeccaatwood.com/collections/embroidered-fabrics/products/dot-dash-fabric-in-navy-blue">Shop Now</a>
+      </div>
+    </div>
+    <div class="picture-cta ip4 pin-left">
+      <div class="cta-frame">
+        <img src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/ip_4_image.jpg?740" alt="">
+        <p>Striped Garden Fabric in Ocean Blues</p>
+        <span>Inspired by the blooms and shapes of spring as well as our love for stripes, this pattern began as a quick drawing in Rebecca’s sketchbook that she then explored as a larger painting.</span>
+        <a class="icon cupid" href="https://rebeccaahttps://rebeccaatwood.com/collections/fabric-by-the-yard/products/striped-garden-fabric-in-ocean-blues.com/collections/fabric-by-the-yard/products/dashes-fabric-in-soft-tangerine">Shop Now</a>
+      </div>
+    </div>
+    <div class="picture-cta ip5 pin-left">
+      <div class="cta-frame">
+        <img src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/ip_5_image.jpg?740" alt="">
+        <p>Looped Circles Fabric in Cobalt</p>
+        <span>These small looped circles started as a painting in Rebecca’s sketchbook. The repetition of mark making creates a layered design that references water falling.</span>
+        <a class="icon cupid" href="https://rebeccaatwood.com/collections/fabric-by-the-yard/products/looped-circles-fabric-in-cobalt">Shop Now</a>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div class="half-half-block">
+    <div class="wrapper">
+      <div class="grid">
+        <div class="half-container border-bottom flex-centered-parent">
+          <div class="grid__item flex-centered-children large--one-half medium--one-half small--one-whole">
+            <div class="half-item half-item-right border-right">
+              <h3>We believe in the art of making.</h3>
+              <p>Your home should tell your story, and our designs will help you share it.</p>
+
+              <a href="https://rebeccaatwood.com/blogs/from-the-studio/tagged/the-art-of-making" class="half-item--cta article-cta text-center icon cupid" target="_self">Read More</a>
+
+            </div>
+          </div>
+          <div class="grid__item flex-centered-children large--one-half medium--one-half small--one-whole">
+            <div class="half-item half-item-left text-right">
+              <img src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/half_half_image.jpg?740" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div class="one-thirds-block">
+    <div class="wrapper">
+      <div class="grid ">
+        <div class="grid__item large--one-third medium--one-third small--one-whole">
+          <div class="third-item" style="background-image:url(//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/one_third_1_image.jpg?740)">
+            <a class="mobile-link" href="/collections/bedding"></a>
+            <div class="one-third-cta">
+              <div class="one-third-cta-container">
+                <a href="/collections/bedding">
+                  <h3>Browse Bedding</h3>
+
+                  </a><ul><a href="/collections/bedding">
+                    </a><li><a href="/collections/bedding"></a><a target="_blank" href="//twitter.com/share?url=https://rebeccaatwood.com/collections/bedding"><i class="icon icon-ra_twitter"></i></a></li>
+                    <li><a target="_blank" href="//www.facebook.com/sharer.php?u=https://rebeccaatwood.com/collections/bedding"><i class="icon icon-ra_facebook"></i></a></li>
+                    <li><a href="http://pinterest.com/pin/create/button/?url=https://rebeccaatwood.com/collections/bedding&amp;media=http://cdn.shopify.com/s/files/1/1303/5951/t/37/assets/one_third_1_image.jpg?740"><i class="icon icon-ra_pinterest"></i></a></li>
+                  </ul>
+
+              </div>
+            </div>
+          </div>
+          <p class="one-third-header">BEDDING</p>
+        </div>
+        <div class="grid__item large--one-third medium--one-third small--one-whole">
+          <div class="third-item" style="background-image:url(//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/one_third_2_image.jpg?740)">
+            <a class="mobile-link" href="/collections/fabric-by-the-yard"></a>
+            <div class="one-third-cta">
+              <div class="one-third-cta-container">
+                <a href="/collections/fabric-by-the-yard">
+                  <h3>Browse Textiles</h3>
+
+                  </a><ul><a href="/collections/fabric-by-the-yard">
+                    </a><li><a href="/collections/fabric-by-the-yard"></a><a target="_blank" href="//twitter.com/share?url=https://rebeccaatwood.com/collections/fabric-by-the-yard"><i class="icon icon-ra_twitter"></i></a></li>
+                    <li><a target="_blank" href="//www.facebook.com/sharer.php?u=https://rebeccaatwood.com/collections/fabric-by-the-yard"><i class="icon icon-ra_facebook"></i></a></li>
+                    <li><a href="http://pinterest.com/pin/create/button/?url=https://rebeccaatwood.com/collections/fabric-by-the-yard&amp;media=http://cdn.shopify.com/s/files/1/1303/5951/t/37/assets/one_third_2_image.jpg?740"><i class="icon icon-ra_pinterest"></i></a></li>
+                  </ul>
+
+              </div>
+            </div>
+          </div>
+          <p class="one-third-header">TEXTILES</p>
+        </div>
+        <div class="grid__item large--one-third medium--one-third small--one-whole">
+          <div class="third-item" style="background-image:url(//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/one_third_3_image.jpg?740)">
+            <a class="mobile-link" href="/collections/wallpapers"></a>
+            <div class="one-third-cta">
+              <div class="one-third-cta-container">
+                <a href="/collections/wallpapers">
+                  <h3>Browse Wallpapers</h3>
+
+                  </a><ul><a href="/collections/wallpapers">
+                    </a><li><a href="/collections/wallpapers"></a><a target="_blank" href="//twitter.com/share?url=https://rebeccaatwood.com/collections/wallpapers"><i class="icon icon-ra_twitter"></i></a></li>
+                    <li><a target="_blank" href="//www.facebook.com/sharer.php?u=https://rebeccaatwood.com/collections/wallpapers"><i class="icon icon-ra_facebook"></i></a></li>
+                    <li><a href="http://pinterest.com/pin/create/button/?url=https://rebeccaatwood.com/collections/wallpapers&amp;media=http://cdn.shopify.com/s/files/1/1303/5951/t/37/assets/one_third_3_image.jpg?740"><i class="icon icon-ra_pinterest"></i></a></li>
+                  </ul>
+
+              </div>
+            </div>
+          </div>
+          <p class="one-third-header">WALLPAPERS</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div class="homepage-custom">
+    <div class="homepage-custom__parallax">
+      <div class="text-center">
+        <a href="/collections/pillows">
+          <div class="mega-button">
+            <div class="mega-button-content underline-animation hover-target">
+              <span>New in the shop!</span>
+              <h1>Pillows</h1>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    jQuery(function($) {
+      setTimeout( function() {
+        $(".homepage-custom__parallax").removeClass("delayed")
+      }, 2000 );
+    });
+  </script>
+<!-- The "script" attribute signifies javascript. https://www.w3schools.com/html/html_scripts.asp -->
+
+
+
+
+
+
+
+
+
+    <div class="homepage-collection homepage--ra">
+      <div class="wrapper">
+
+          <div class="custom-section-header">
+            <h1 class="section-title">Featured Favorites</h1>
+            <h4 class="section-subtitle">Our recent top sellers</h4>
+          </div>
+
+        <div class="grid-uniform small--hide">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="grid__item small--one-whole medium--one-third large--one-third  product-grid-item relatedProduct" id="product-1">
+      <a class="product-image-tile" href="/collections/featured/products/speckled-pillow-in-navy">
+        <div class="reveal">
+          <img src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-speckled-pillow-navy_large.jpg?v=1556565541" alt="Speckled Pillow in Navy">
+
+          <div class="hidden">
+            <img src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-pillow-speckled-navy-reverse_55cde89b-b532-4537-9dd6-44c41e879cd3_large.jpg?v=1556565541" alt="Speckled Pillow in Navy">
+          </div>
+
+        </div>
+      </a>
+      <div class="figcaption hover">
+        <a href="/collections/featured/products/speckled-pillow-in-navy">
+          <p class="collection-product-title">
+            Speckled Pillow in Navy
+          </p>
+          <p class="price_wrapper">
+            <span class="price">
+
+              <span class="money">$189.00</span>
+            </span>
+
+
+
+          </p>
+        </a>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="grid__item small--one-whole medium--one-third large--one-third  product-grid-item relatedProduct" id="product-2">
+      <a class="product-image-tile" href="/collections/featured/products/geo-wave-coverlet-in-navy">
+        <div class="reveal">
+          <img src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-geo-wave-blue-coverlet-large-flat.jpg-1024_large.JPG?v=1509038474" alt="Geo Wave Coverlet in Navy">
+
+          <div class="hidden">
+            <img src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-geo-wave-blue-coverlet-large-folded.jpg-1024_large.JPG?v=1509038475" alt="Geo Wave Coverlet in Navy">
+          </div>
+
+        </div>
+      </a>
+      <div class="figcaption hover">
+        <a href="/collections/featured/products/geo-wave-coverlet-in-navy">
+          <p class="collection-product-title">
+            Geo Wave Coverlet in Navy
+          </p>
+          <p class="price_wrapper">
+            <span class="price">
+              From
+              <span class="money">$239.00</span>
+            </span>
+
+
+
+          </p>
+        </a>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="grid__item small--one-whole medium--one-third large--one-third  product-grid-item relatedProduct" id="product-3">
+      <a class="product-image-tile" href="/collections/featured/products/shell-duvet">
+        <div class="reveal">
+          <img src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-shell-orange-duvet-large-flat.jpg-1024-1_large.jpg?v=1532634631" alt="Shell Duvet Cover in Blush">
+
+          <div class="hidden">
+            <img src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-shell-tangerine-bed_Crop.jpg-3000-1_large.jpg?v=1532634631" alt="Shell Duvet Cover in Blush">
+          </div>
+
+        </div>
+      </a>
+      <div class="figcaption hover">
+        <a href="/collections/featured/products/shell-duvet">
+          <p class="collection-product-title">
+            Shell Duvet Cover in Blush
+          </p>
+          <p class="price_wrapper">
+            <span class="price">
+              From
+              <span class="money">$259.00</span>
+            </span>
+
+
+
+          </p>
+        </a>
+      </div>
+    </div>
+
+
+
+
+        </div>
+        <div class="collection-carousel large--hide medium--hide slick-initialized slick-slider" style=""><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
+
+
+
+
+
+
+
+        <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 595px; transform: translate3d(-119px, 0px, 0px);" role="listbox"><div class="product-grid-item slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 119px;" data-slick-index="-1" aria-hidden="true">
+            <a href="/collections/featured/products/shell-duvet" tabindex="-1">
+              <img class="carousel-image" src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-shell-orange-duvet-large-flat.jpg-1024-1_large.jpg?v=1532634631" alt="Shell Duvet Cover in Blush">
+            </a>
+          </div><div class="product-grid-item slick-slide slick-current slick-active" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 119px;" data-slick-index="0" aria-hidden="false">
+            <a href="/collections/featured/products/speckled-pillow-in-navy" tabindex="0">
+              <img class="carousel-image" src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-speckled-pillow-navy_large.jpg?v=1556565541" alt="Speckled Pillow in Navy">
+            </a>
+          </div><div class="product-grid-item slick-slide" tabindex="-1" role="option" aria-describedby="slick-slide01" style="width: 119px;" data-slick-index="1" aria-hidden="true">
+            <a href="/collections/featured/products/geo-wave-coverlet-in-navy" tabindex="-1">
+              <img class="carousel-image" src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-geo-wave-blue-coverlet-large-flat.jpg-1024_large.JPG?v=1509038474" alt="Geo Wave Coverlet in Navy">
+            </a>
+          </div><div class="product-grid-item slick-slide" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 119px;" data-slick-index="2" aria-hidden="true">
+            <a href="/collections/featured/products/shell-duvet" tabindex="-1">
+              <img class="carousel-image" src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-shell-orange-duvet-large-flat.jpg-1024-1_large.jpg?v=1532634631" alt="Shell Duvet Cover in Blush">
+            </a>
+          </div><div class="product-grid-item slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 119px;" data-slick-index="3" aria-hidden="true">
+            <a href="/collections/featured/products/speckled-pillow-in-navy" tabindex="-1">
+              <img class="carousel-image" src="//cdn.shopify.com/s/files/1/1303/5951/products/rebecca-atwood-speckled-pillow-navy_large.jpg?v=1556565541" alt="Speckled Pillow in Navy">
+            </a>
+          </div></div></div><button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
+      </div>
+    </div>
+
+
+  <script>
+    jQuery(function($) {
+      $('.collection-carousel').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        responsive: [
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+    });
+  </script>
+
+
+
+
+
+
+
+  <div class="custom-section">
+    <div class="wrapper">
+      <div class="custom-section-header">
+        <h1 class="section-title">As Seen In</h1>
+        <h4 class="section-subtitle">We’ve received some love from these fine folks</h4>
+      </div>
+      <div class="simple-carousel slick-initialized slick-slider"><button type="button" class="slick-prev slick-arrow" style="z-index: 1; display: block;">Previous</button>
+        <div aria-live="polite" class="slick-list draggable" style="height: 119px;"><div class="slick-track" role="listbox" style="opacity: 1; width: 595px; transform: translate3d(-238px, 0px, 0px);"><div class="tile-image hover-target slick-slide slick-cloned" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/simple_carousel_3_image.jpg?740&quot;); width: 119px;" data-slick-index="-1" aria-hidden="true" tabindex="-1">
+           <a target="_blank" href="/pages/press" tabindex="-1">
+          <div class="tile-cta">
+            <div class="border-tile underline-animation">
+              <p>As Seen In</p>
+              <h3>Traditional Home</h3>
+            </div>
+          </div>
+           </a>
+        </div><div class="tile-image hover-target slick-slide" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/simple_carousel_1_image.jpg?740&quot;); width: 119px;" data-slick-index="0" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide10">
+           <a target="_blank" href="/pages/press" tabindex="-1">
+          <div class="tile-cta">
+            <div class="border-tile underline-animation">
+              <p>As Seen In</p>
+              <h3>Martha Stewart</h3>
+            </div>
+          </div>
+           </a>
+        </div><div class="tile-image hover-target slick-slide slick-current slick-active" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/simple_carousel_2_image.jpg?740&quot;); width: 119px;" data-slick-index="1" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide11">
+           <a target="_blank" href="/pages/press" tabindex="0">
+          <div class="tile-cta">
+            <div class="border-tile underline-animation">
+              <p>As Seen In</p>
+              <h3>Emily Henderson</h3>
+            </div>
+          </div>
+           </a>
+        </div><div class="tile-image hover-target slick-slide" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/simple_carousel_3_image.jpg?740&quot;); width: 119px;" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide12">
+           <a target="_blank" href="/pages/press" tabindex="-1">
+          <div class="tile-cta">
+            <div class="border-tile underline-animation">
+              <p>As Seen In</p>
+              <h3>Traditional Home</h3>
+            </div>
+          </div>
+           </a>
+        </div><div class="tile-image hover-target slick-slide slick-cloned" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/simple_carousel_1_image.jpg?740&quot;); width: 119px;" data-slick-index="3" aria-hidden="true" tabindex="-1">
+           <a target="_blank" href="/pages/press" tabindex="-1">
+          <div class="tile-cta">
+            <div class="border-tile underline-animation">
+              <p>As Seen In</p>
+              <h3>Martha Stewart</h3>
+            </div>
+          </div>
+           </a>
+        </div></div></div>
+
+
+      <button type="button" class="slick-next slick-arrow" style="display: block;">next</button></div>
+    </div>
+  </div>
+  <script>
+    jQuery(function($) {
+      $('.simple-carousel').slick({
+        dots: false,
+        adaptiveHeight: true,
+        autoplay: true,
+        easing: 'ease-in-out',
+        prevArrow: '<button type="button" class="slick-prev" style="z-index:1;">Previous</button>',
+        nextArrow: '<button type="button" class="slick-next">next</button>'
+      });
+    });
+  </script>
+
+
+
+
+    <div class="custom-section get-closer-up">
+    <div class="wrapper">
+      <div class="custom-section-header">
+
+        <h1 class="section-title"></h1>
+
+        <h4 class="section-subtitle">Also Seen In</h4>
+      </div>
+      <div class="featured-logo-container">
+        <div class="grid">
+          <div class="grid__item large--one-third medium--one-half small--one-whole">
+            <a target="_blank" href="http://www.architecturaldigest.com/gallery/fritz-porter-design-shop-charleston-south-carolina">
+              <img class="featured-logo-img" src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/press_featured_in_1_image.jpg?740">
+            </a>
+          </div>
+          <div class="grid__item large--one-third medium--one-half small--one-whole">
+            <a target="_blank" href="http://www.vogue.com/13421664/questions-to-ask-yourself-when-buying-new-furniture/">
+              <img class="featured-logo-img" src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/press_featured_in_2_image.jpg?740">
+            </a>
+          </div>
+          <div class="grid__item large--one-third medium--one-half small--one-whole">
+            <a target="_blank" href="http://theeverygirl.com/surface-pattern-designer-and-creative-director-rebecca-atwood">
+              <img class="featured-logo-img" src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/press_featured_in_3_image.jpg?740">
+            </a>
+          </div>
+          <div class="grid__item large--one-third medium--one-half small--one-whole">
+            <a target="_blank" href="http://www.wsj.com/articles/decorating-fabrics-inspired-by-matisse-1406140729?mod=WSJ_Opinion_LatestHeadlines">
+              <img class="featured-logo-img" src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/press_featured_in_4_image.jpg?740">
+            </a>
+          </div>
+          <div class="grid__item large--one-third medium--one-half small--one-whole">
+            <a target="_blank" href="http://www.refinery29.com/bright-summer-home-accessories#slide-18">
+              <img class="featured-logo-img" src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/press_featured_in_5_image.jpg?740">
+            </a>
+          </div>
+          <div class="grid__item large--one-third medium--one-half small--one-whole">
+            <a target="_blank" href="https://www.nytimes.com/2017/03/01/fashion/textiles-business-brooklyn-cool.html">
+              <img class="featured-logo-img" src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/press_featured_in_6_image.jpg?740">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div class="u-solid">
+    <div class="wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="custom-section back-2-back-section">
+
+      <div class="custom-section-header">
+        <h1 class="section-title">Our Process</h1>
+        <h4 class="section-subtitle">From our studio, to your home</h4>
+      </div>
+
+    <div class="process-carousel story-carousel slick-initialized slick-slider slick-dotted" role="toolbar"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
+      <div aria-live="polite" class="slick-list draggable" style="height: 131px;"><div class="slick-track" role="listbox" style="opacity: 1; width: 595px; transform: translate3d(-357px, 0px, 0px);"><div class="tile-image  slick-slide slick-cloned" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/home_process_3_image.jpg?740&quot;); width: 119px;" data-slick-index="-1" aria-hidden="true" tabindex="-1">
+        <div class="overlay-light"></div>
+        <div class="tile-cta">
+          <div class="border-tile">
+            <p class="tile-title">SAMPLING</p>
+            <p class="tile-body">It takes a bit of trial and error to get things - color, technique, quality - right. This step allows us to assess each product in a more finalized form.</p>
+
+              <a class="icon cupid" href="/pages/process" tabindex="-1">Learn More</a>
+
+
+          </div>
+        </div>
+      </div><div class="tile-image  slick-slide" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/home_process_1_image.jpg?740&quot;); width: 119px;" data-slick-index="0" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide20">
+        <div class="overlay-light"></div>
+        <div class="tile-cta">
+          <div class="border-tile">
+            <p class="tile-title">EXPERIMENTING</p>
+            <p class="tile-body">The first stages of making - gathering inspiration, sketching, painting - are often lost in the development of today’s commercial products. Our process always starts here.</p>
+
+              <a class="icon cupid" href="/pages/process" tabindex="-1">Learn More</a>
+
+
+          </div>
+        </div>
+      </div><div class="tile-image  slick-slide" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/home_process_2_image.jpg?740&quot;); width: 119px;" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide21">
+        <div class="overlay-light"></div>
+        <div class="tile-cta">
+          <div class="border-tile">
+            <p class="tile-title">CREATING THE ARTWORK</p>
+            <p class="tile-body">Once we’ve had the chance to play with our ideas, it’s time to bring them to life by defining motifs we’ve developed, scaling them and sending them off.</p>
+
+              <a class="icon cupid" href="/pages/process" tabindex="-1">Learn More</a>
+
+
+          </div>
+        </div>
+      </div><div class="tile-image  slick-slide slick-current slick-active" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/home_process_3_image.jpg?740&quot;); width: 119px;" data-slick-index="2" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide22">
+        <div class="overlay-light"></div>
+        <div class="tile-cta">
+          <div class="border-tile">
+            <p class="tile-title">SAMPLING</p>
+            <p class="tile-body">It takes a bit of trial and error to get things - color, technique, quality - right. This step allows us to assess each product in a more finalized form.</p>
+
+              <a class="icon cupid" href="/pages/process" tabindex="0">Learn More</a>
+
+
+          </div>
+        </div>
+      </div><div class="tile-image  slick-slide slick-cloned" style="background-image: url(&quot;//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/home_process_1_image.jpg?740&quot;); width: 119px;" data-slick-index="3" aria-hidden="true" tabindex="-1">
+        <div class="overlay-light"></div>
+        <div class="tile-cta">
+          <div class="border-tile">
+            <p class="tile-title">EXPERIMENTING</p>
+            <p class="tile-body">The first stages of making - gathering inspiration, sketching, painting - are often lost in the development of today’s commercial products. Our process always starts here.</p>
+
+              <a class="icon cupid" href="/pages/process" tabindex="-1">Learn More</a>
+
+
+          </div>
+        </div>
+      </div></div></div>
+
+
+    <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button><ul class="slick-dots" style="display: block;" role="tablist"><li class="" aria-hidden="true" role="presentation" aria-selected="true" aria-controls="navigation20" id="slick-slide20"><div class="story-step step1">1</div><span>EXPERIMENTING</span></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation21" id="slick-slide21" class=""><div class="story-step step2">2</div><span>CREATION</span></li><li aria-hidden="false" role="presentation" aria-selected="false" aria-controls="navigation22" id="slick-slide22" class="slick-active"><div class="story-step step3">3</div><span>SAMPLING</span></li></ul></div>
+  </div>
+
+    </div>
+  </div>
+  <script>
+    jQuery(function($) {
+      $('.process-carousel').slick({
+        dots: true,
+        adaptiveHeight: true,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        customPaging : function(slider, i) {
+          return '<div class="story-step step' + (i+1) + '">' + (i + 1) + '</div>';
+        }
+      });
+      $('.step1').after("<span>EXPERIMENTING</span>");
+      $('.step2').after("<span>CREATION</span>");
+      $('.step3').after("<span>SAMPLING</span>");
+    });
+  </script>
+
+
+
+
+
+  <div class="custom-section back-2-back-section custom-top-blog">
+    <div class="wrapper">
+      <div class="custom-section-header">
+        <h1 class="section-title">The Fold</h1>
+        <h4 class="section-subtitle">Rebecca and the team's musings, from unexpected sources of inspiration to behind-the-scenes stories from the studio (and beyond).</h4>
+      </div>
+      <div class="grid grid--full">
+        <div class="grid__item one-whole">
+
+            <a class="blog__link hover-target" href="/blogs/from-the-studio/our-aura-portraits">
+              <div class="home-blog-image" style="background-image: url('//cdn.shopify.com/s/files/1/1303/5951/articles/IMG_9216_1024x1024.jpg?v=1571336946');">
+                <div class="tile-cta">
+                  <div class="border-tile">
+                    <div class="underline-animation">
+                      <p>from-the-studio</p>
+                      <h3>Our Aura Portraits</h3>
+                    </div>
+                    <p class="tile-cta-link icon cupid">READ MORE</p>
+                  </div>
+                </div>
+              </div>
+            </a>
+
+        </div>
+        <!-- <div class="grid__item one-whole large--five-twelfths hidden-md hidden-sm">
+          <div class="home-blog-secondary-image" style="background-image: url('//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/homepage_blog_second_image?740');"></div>
+        </div> -->
+      </div>
+    </div>
+
+
+
+
+
+
+
+    </div></main>
+
+    <footer class="site-footer-wrapper" role="contentinfo">
+
+      <div class="footer-banner" style="background-image: url(//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/newsletter_img_url.jpg?740)">
+        <div class="overlay"></div>
+        <div class="footer-banner-content hover-target">
+          <div class="signup-content">
+            <div class="underline-animation" data-trigger="signup-content">
+              <h2>Join Our Newsletter</h2>
+              <p>Sign up to hear about new products and promotions from Rebecca Atwood and get $20 off your first purchase in the shop!</p>
+            </div>
+            <div id="footer_signup">
+              <form action="//rebeccaatwood.us6.list-manage.com/subscribe/post?u=800ba0cc943f8cd4bc00ae54b&amp;id=f0cdb8dc61" method="post" id="footer-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                <input value="" name="EMAIL" class="email newsletter-email" id="footer-EMAIL" placeholder="your-email@example.com" required="" type="email">
+                <input value="SIGN UP" name="subscribe" id="footer-subscribe" class="cta" type="submit">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear"></div>
+
+
+    <div class="homepage-instagram grid homepage--white">
+
+        <h4 class="instafeed-title">Follow along on Instagram</h4>
+
+      <div id="instafeed"><a href="https://www.instagram.com/p/B4M1uQxhZIW/" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>571</span></div></div><div class="instafeed-image" style="background-image: url(//scontent.cdninstagram.com/vp/d6dc0e5d981e45e479c7a228f0a37128/5DBB5DA1/t51.2885-15/sh0.08/e35/p640x640/71510682_2549873435295054_9155984942868906029_n.jpg?_nc_ht=scontent.cdninstagram.com);"></div></a><a href="https://www.instagram.com/p/B4KNFkAgQQP/" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>130</span></div></div><div class="instafeed-image" style="background-image: url(//scontent.cdninstagram.com/vp/c62b1ff25c0c747255d1869b96ca971e/5E4BDE83/t51.2885-15/sh0.08/e35/p640x640/76894215_423110318396760_8001471780428865370_n.jpg?_nc_ht=scontent.cdninstagram.com);"></div></a><a href="https://www.instagram.com/p/B4JM6szBf2q/" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>1492</span></div></div><div class="instafeed-image" style="background-image: url(//scontent.cdninstagram.com/vp/0a05e83aa436cf9f07666161ae53c935/5E5CD9D3/t51.2885-15/sh0.08/e35/p640x640/72767542_182331906263854_4246694142945095752_n.jpg?_nc_ht=scontent.cdninstagram.com);"></div></a><a href="https://www.instagram.com/p/B4FJZ7xBMr7/" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>421</span></div></div><div class="instafeed-image" style="background-image: url(//scontent.cdninstagram.com/vp/3f58733bf22582bc024898f5de7b04f4/5E511736/t51.2885-15/sh0.08/e35/p640x640/74605138_151007376151642_4507900355870679466_n.jpg?_nc_ht=scontent.cdninstagram.com);"></div></a><a href="https://www.instagram.com/p/B4Ci5hTh3Ui/" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>786</span></div></div><div class="instafeed-image" style="background-image: url(//scontent.cdninstagram.com/vp/4e8cada4ce7063a31bf2764161da16a0/5E549905/t51.2885-15/sh0.08/e35/p640x640/75640839_589947054875823_7571537428153496854_n.jpg?_nc_ht=scontent.cdninstagram.com);"></div></a><a href="https://www.instagram.com/p/B3__dE1Bk8b/" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>120</span></div></div><div class="instafeed-image" style="background-image: url(//scontent.cdninstagram.com/vp/18236cd3e09f516284fac63a3b4ad0e1/5DBB142F/t51.2885-15/sh0.08/e35/p640x640/73088352_141005137281963_240477746568128563_n.jpg?_nc_ht=scontent.cdninstagram.com);"></div></a></div>
+    </div>
+
+    <script>
+      $(document).ready(function(){
+        var userFeed = new Instafeed({
+          get: 'user',
+          userId: 'self',
+          accessToken: "20379416.b534787.f25597534ecf464a9e678af0f5d15245",
+          sortBy: 'most-recent',
+          resolution: 'standard_resolution',
+          limit: 6,
+          template: '<a href="{{link}}" target="_blank" class="grid__item large--one-sixth small--one-third medium--one-third"><div class="instafeed-icon"><div class="instafeed-border"><i class="icon icon-ra_heart"></i><span>{{likes}}</span></div></div><div class="instafeed-image" style="background-image: url({{image}});"></div></a>'
+        });
+        userFeed.run();
+      });
+    </script>
+
+
+
+      <div class="wrapper">
+        <div class="footer-secondary-wrapper">
+          <ul class="footer-secondary inline-list">
+
+              <li><a href="/pages/faq">FAQ</a></li>
+
+              <li><a href="/pages/trade">Trade</a></li>
+
+              <li><a href="/pages/press">Press</a></li>
+
+              <li><a href="/pages/shipping-return-policy">Shipping &amp; Returns</a></li>
+
+              <li><a href="/pages/terms-privacy">Terms &amp; Privacy</a></li>
+
+              <li><a href="http://rebeccaatwood.com/apps/giftregistry">Registry</a></li>
+
+          </ul>
+
+          <!--
+          <div class="">
+            <ul class="footer-payment payment-icons inline-list footer-social">
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-american_express" aria-hidden="true"></span>
+                    <span class="fallback-text">american express</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-apple_pay" aria-hidden="true"></span>
+                    <span class="fallback-text">apple pay</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-diners_club" aria-hidden="true"></span>
+                    <span class="fallback-text">diners club</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-discover" aria-hidden="true"></span>
+                    <span class="fallback-text">discover</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-jcb" aria-hidden="true"></span>
+                    <span class="fallback-text">jcb</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-master" aria-hidden="true"></span>
+                    <span class="fallback-text">master</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-shopify_pay" aria-hidden="true"></span>
+                    <span class="fallback-text">shopify pay</span>
+                  </span>
+                </li>
+
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-visa" aria-hidden="true"></span>
+                    <span class="fallback-text">visa</span>
+                  </span>
+                </li>
+
+            </ul>
+          </div>
+           -->
+
+          <div class="">
+            <ul class="footer-social social-icons inline-list">
+
+                <li>
+                  <a class="icon-fallback-text" href="https://twitter.com/RAtwood_Designs" title="Rebecca Atwood Designs on Twitter" target="_blank">
+                    <span class="icon icon-ra_twitter" aria-hidden="true"></span>
+                    <span class="fallback-text">Twitter</span>
+                  </a>
+                </li>
+
+
+                <li>
+                  <a class="icon-fallback-text" href="https://www.facebook.com/RebeccaAtwoodDesigns/" title="Rebecca Atwood Designs on Facebook" target="_blank">
+                    <span class="icon icon-ra_facebook" aria-hidden="true"></span>
+                    <span class="fallback-text">Facebook</span>
+                  </a>
+                </li>
+
+
+                <li>
+                  <a class="icon-fallback-text" href="https://www.instagram.com/rebeccaatwooddesigns/" title="Rebecca Atwood Designs on Instagram" target="_blank">
+                    <span class="icon icon-ra_instagram" aria-hidden="true"></span>
+                    <span class="fallback-text">Instagram</span>
+                  </a>
+                </li>
+
+
+                <li>
+                  <a class="icon-fallback-text" href="https://www.pinterest.com/rebecca_atwood/" title="Rebecca Atwood Designs on Pinterest" target="_blank">
+                    <span class="icon icon-ra_pinterest" aria-hidden="true"></span>
+                    <span class="fallback-text">Pinterest</span>
+                  </a>
+                </li>
+
+
+                <li>
+                  <a class="icon-fallback-text" href="https://www.youtube.com/channel/UC1bKLHV_tr4D7M_EJS3230w/videos?view_as=subscriber" title="Rebecca Atwood Designs on Youtube" target="_blank">
+                    <span class="icon icon-youtube" aria-hidden="true"></span>
+                    <span class="fallback-text">Youtube</span>
+                  </a>
+                </li>
+
+
+
+
+            </ul>
+          </div>
+
+          <div class="copyright">
+            <a href="/">© COPYRIGHT 2019 REBECCA ATWOOD</a> <br> <a href="http:www.twg.io">MADE BY TWG</a>
+          </div>
+          <div class="footer-centered-logo">
+            <i class="icon icon-ra_monogram"></i>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/fastclick.min.js?740" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/shop.js?740" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/custom.js?740" type="text/javascript"></script>
+
+  <script>
+    jQuery(function($) {
+      $("#sticky-nav").sticky({topSpacing:0});
+    });
+  </script>
+    <script>
+
+
+    </script>
+
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.3/jquery.sticky.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+    <div class="modal-bg"></div>
+
+
+
+    <script>
+      ////////////////////
+      // Ajax cart code //
+      ////////////////////
+
+      function openAjaxCart() {
+        $('.ajaxCart-fullContainer').removeClass('hidden').addClass('ajaxCart--active')
+        var timeout = setTimeout(function() {
+          closeAjaxCart()
+        }, 5000)
+
+        $('.ajaxCart').on('mouseenter', function() {
+          clearTimeout(timeout)
+        })
+        $('.ajaxCart').on('mouseleave', function() {
+          closeAjaxCart()
+        })
+      }
+
+      function closeAjaxCart() {
+        $('.ajaxCart-fullContainer').removeClass('ajaxCart--active').addClass('hidden')
+      }
+
+      function addItem(formId) {
+        $.ajax({
+          type: 'POST',
+          url: '/cart/add.js',
+          dataType: 'json',
+          data: $('#' + formId).serialize(),
+          success: addToCartOk,
+          error: addToCartFail
+        })
+      }
+
+      var totalQuantity = 0
+      function addToCartOk(product) {
+        var formQuantity = parseInt($('#AddToCartForm #Quantity').val()) || 1
+        totalQuantity += parseInt(formQuantity)
+        var title = product.product_title ? product.product_title : ''
+        var variantTitle = product.variant_title ? product.variant_title : ''
+        var type = product.product_type ? product.product_type : ''
+        var price = product.price ? ((product.price / 100) * formQuantity) : 0
+
+        if (!$('.ajaxCart-parent').length) {
+          $('.ajaxCart').append('<div class="ajaxCart-parent"></div>')
+          $('.ajaxCart').append('<a target="_self" href="/cart" class="btn btn--large btn--full uppercase ajaxCart-btn--checkout">Checkout</a>')
+          $('.ajaxCart-parent').append('<div class="ajaxCart-container"></div>')
+          $('.ajaxCart-container').append('<div class="clearfix"><div class="left ajaxCart-firstChild"></div><div class="left ajaxCart-secondChild clearfix"></div></div>')
+          $('.ajaxCart-container .ajaxCart-firstChild').append('<img class="ajaxCart-productImg" src="' + product.image + '" alt=' + product.product_title + ' />')
+          $('.ajaxCart-container .ajaxCart-secondChild').append('<h5>' + title + '</h5>')
+          $('.ajaxCart-container .ajaxCart-secondChild').append('<h6>' + type + '</h6>')
+          $('.ajaxCart-container .ajaxCart-secondChild').append('<h6 class="ajaxCart-secondChild--size">Size: ' + variantTitle + '</h6>')
+          $('.ajaxCart-container .ajaxCart-secondChild').append('<h6 class="ajaxCart-secondChild--quantity">Quantity: ' + formQuantity + '</h6>')
+          $('.ajaxCart-container .ajaxCart-secondChild').append('<h6 class="ajaxCart-secondChild--price">$' + price + '</h6>')
+        } else {
+          var newPrice = (product.price / 100) * totalQuantity
+          $('.ajaxCart-secondChild--quantity').html('Quantity: ' + totalQuantity)
+          $('.ajaxCart-secondChild--price').html('$' + newPrice)
+        }
+
+        getCart()
+        openAjaxCart()
+      }
+
+      function addToCartFail(obj, status) {
+        var error = obj.responseJSON && obj.responseJSON.description ? obj.responseJSON.description : 'The item(s) you are trying to add is out of stock.'
+        $('.ajaxCart').html('<h4 class="ajaxCart-heading">There was an error adding items to your cart</h4><p class="ajaxCart-error--message">' + error + '</p><a target="_self" href="/cart" class="btn btn--large btn--full uppercase">Go to Cart</a>')
+
+        openAjaxCart()
+      }
+
+      function getCart() {
+        $.ajax({
+          type: 'GET',
+          url: '/cart.js',
+          dataType: 'json',
+          success: function(cart) {
+            if (cart) {
+              if (cart.item_count && cart.item_count > 0) {
+                $('.cartCount-updater').html(cart.item_count)
+                $('#nav-cartCountDesktop').html('(' + cart.item_count + ')')
+                if ($('#nav-cartCountDesktop').hasClass("hidden-count")) {
+                  $('#nav-cartCountDesktop').removeClass('hidden-count')
+                }
+              }
+            }
+          }
+        })
+      }
+    </script>
+
+
+
+  <div class="smile-shopify-init" data-channel-key="pk_gsvdMTp5oCS9hPG7UvZn2Ggr"></div>
+
+
+
+
+  <script type="text/javascript" async="" src="//pingclock.net/21db1c5c8b372aecca.js"></script><iframe id="lo-cs-frame" src="about:blank" aria-hidden="true" title="Lucky Orange" style="display: none !important;"></iframe><div id="LoAvailableBtn" style="padding: 10px; height: auto; position: fixed; bottom: 0px; right: 20px; z-index: 9999; background-color: rgba(255, 255, 255, 0.97); color: rgb(0, 0, 0); direction: ltr; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 140%; box-shadow: rgb(0, 0, 0) 0px 0px 5px; border-top: 2px solid rgb(255, 255, 255); border-right: 2px solid rgb(255, 255, 255); border-left: 2px solid rgb(255, 255, 255); border-image: initial; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom: none; cursor: pointer; display: none; margin-bottom: 0px; opacity: 0;">Your personal home stylist - chat with us!&nbsp; <img id="lo_green_blinker" width="16" height="16" style="width:16px; height:16px; border:none; padding:0; margin:0; margin-left:3px;" src="https://d10lpsik1i8c69.cloudfront.net/graphics/blink_green.png" align="right" alt=""></div><div id="LoChatMinimizedButton" style="padding:10px; height:auto; position:fixed;bottom:0px; right:20px;  z-index:9999; background-color: rgba(255,255,255,0.97); color: #000000; direction: ltr; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; line-height:140%;;  -box-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 5px #000; -webkit-box-shadow: 0px 0px 5px #000; border:2px solid #fff;  border-bottom:none; -webkit-border-top-left-radius: 10px; -webkit-border-top-right-radius: 10px; -moz-border-radius-topleft: 10px; -moz-border-radius-topright: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom:none; ;cursor: pointer; ;max-width: 250; display: none;;margin-bottom:0px">Chatting<div class="lo-badge" style="display: none; background-color: red; border-radius: 50%; box-shadow: black 0px 0px 5px; color: white; height: 25px; line-height: 25px; position: absolute; text-align: center; width: 25px; right: 57px; bottom: 23px;">0</div></div><div id="lo_chat_box" style="transition: cubic-bezier(0, 1, 0.5, 1) .35s; border:2px solid white; width:350px; max-width:350px; border-bottom:none; display:none; bottom:-1000px; opacity:0;  position:fixed; bottom:-1000px; ; margin-bottom: 0px ;right:20px;  z-index:999999;   background-color: #ffffff; background-color: rgba(255,255,255,0.97); color: #000000; direction: ltr; font-family: Arial, Helvetica, sans-serif; font-size:13px; line-height:130%; color: #000000; -box-shadow: 0px 0px 5px rgba(0,0,0,0.5); box-shadow: 0px 0px 5px  rgba(0,0,0,0.5); -webkit-box-shadow: 0px 0px 5px  rgba(0,0,0,0.5);;-webkit-border-top-left-radius: 10px; -webkit-border-top-right-radius: 10px; -moz-border-radius-topleft: 10px; -moz-border-radius-topright: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; "><div onclick="LO.min_chat();" tabindex="0" id="lo_chat_top" style="color:#000000; background-color: #DADADA; background-color: rgba(234,234,234,0.97); cursor:pointer; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:13px; line-height:13px; -webkit-border-top-left-radius: 10px; -webkit-border-top-right-radius: 10px; -moz-border-radius-topleft: 10px; -moz-border-radius-topright: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; "><div style="float:right; margin-top:10px; margin-right:10px; position:absolute; right:0;" id="lo_chat_min_box"><div style="cursor: pointer; float:right; margin-left:10px; opacity:0.6; font-size:1empx; font-weight:bold;" onclick="LO.end_chat();" tabindex="0" id="lo_chat_end">×</div><div style="cursor: pointer; float:right; opacity:0.6; font-size:1empx; font-weight:bold;" id="lo_chat_min">–</div><div style="clear:both"></div></div><div id="lo_operator">undefined</div><div style="clear:both"></div><div style="height:0px; width:100%; border-top:1px solid #ffffff;border-bottom:1px solid #EAEAEA"></div></div><div id="lo_chat_log" style="height:225px; max-height: 30vh; font-size:13px; margin-top:10px; line-height: 120%; padding:10px; overflow-y:auto; margin-bottom:10px;font-family:inherit;font-size:inherit;"></div><form action="" onsubmit="LO.submit_chat(); return false;"><div id="lo_chat_input" style="position:relative; width: 100%; "><div style="height:0px; margin-bottom:0px; margin-top:0px; width:100%; border-top:1px solid #ffffff;border-bottom:1px solid #EAEAEA"></div><div style="padding:10px;"><label for="lo_chat_textarea" style="display:none">Chat Input Box</label><textarea id="lo_chat_textarea" disabled="disabled" rows="2" style="color: black; background-color: rgb(255, 255, 255); border-radius: 5px; padding: 7px; height: auto; width: 100%; font-family: sans-serif; text-transform: none; resize: none;" dir="null" data-last-scroll-height="0"></textarea></div><div id="lo_chat_sound_holder" style="position:absolute; right:0px; top:-25px; width:100%;"><div style="cursor: pointer; float:right; opacity:0.6; padding-right:10px; height:16px;" id="lo_chat_sound"><img alt="Click to mute chat sounds" src="https://d10lpsik1i8c69.cloudfront.net/graphics/sound-on.png"></div><div id="lo_chat_status" style="padding-left:10px; font-size:11px; color:#DADADA"></div><div style="clear:both;"></div></div></div></form><div id="lo_chat_submit_btn" style="padding:10px; padding-top:0px;"><button onclick="LO.submit_chat();" type="button" style="width:100%; box-sizing: border-box; font-size: 12px;  letter-spacing:initial; text-transform:none; line-height: 1.3333333;  color: #fff;  background-color: #FFFFFF;  display: inline-block;  padding: 6px 12px;   font-weight: bold;  line-height: 1.42857143;  text-align: center;  white-space: nowrap;  vertical-align: middle;  -ms-touch-action:manipulation;  touch-action: manipulation;  cursor: pointer; outline:none; -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none; user-select: none;  background-image: none;  background: #FFFFFF;  background-image: -webkit-linear-gradient(top, #FFFFFF, #AAAAAA);  background-image: -moz-linear-gradient(top, #FFFFFF, #AAAAAA);  background-image: -ms-linear-gradient(top, #FFFFFF, #AAAAAA);  background-image: -o-linear-gradient(top, #FFFFFF, #AAAAAA);  background-image: linear-gradient(to bottom, #FFFFFF, #AAAAAA); -webkit-border-radius: 5;  -moz-border-radius: 5;  border-color: #FFFFFF; border-radius: 5px;  font-family: Arial; text-shadow:0px 1px 1px #FFFFFF;  color: #000000; border-width:1px; font-weight:bold; ; padding: 10px 15px 10px 15px;  text-decoration: none; min-height: 40px;  text-align: center;">Chat</button></div><div id="lo_poweredBy" style="text-align:right; margin-bottom:10px;  font-size:10px; width:100%; line-height:16px; color: #CACACA;">Powered by <img src="https://d10lpsik1i8c69.cloudfront.net/graphics/logo-dark.png" align="absmiddle" title="Lucky Orange Chat Logo" alt="Lucky Orange Chat Logo" onclick="LO.click_brand(event, 'chat');" style="cursor: pointer; height: 12px; width:auto; margin-right:10px; display: inline-block;" border="0"></div></div><iframe id="tidio-chat-code" title="Tidio Chat code" style="display: none;"></iframe><div id="tidio-chat"></div><div><div id="smile-ui-container" style="position: fixed; width: 0px; height: 0px; bottom: 0px; right: 0px; z-index: 2147483647;"><div><div class="smile-launcher-frame-container smile-launcher-border-radius-circular smile-launcher-mobile smile-launcher-closed smile-launcher-animate" style="bottom: 30px; width: 269px; left: 30px;"><iframe title="Smile.io Rewards Program Launcher" class="smile-launcher-frame"></iframe></div></div></div></div></body>
+  </body>
+</html>
